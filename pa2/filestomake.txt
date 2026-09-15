@@ -1,4 +1,0 @@
-myleprocess.py: the process to be part of the election ring
-config.txt: the aforementioned config file
-log1.txt, log2.txt, log3.txt: log files from the three processes in your local demo
-README.md: a brief explanation of how to run the programs. must include an execution example (copy, paste, and format the results shown on your terminals. It can be shown in the form of screenshots.)
