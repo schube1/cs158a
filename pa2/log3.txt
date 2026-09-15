@@ -1,0 +1,8 @@
+UUID: c8974085-6fe8-4d14-b19f-b714ae8e61af
+Sent: uuid=c8974085-6fe8-4d14-b19f-b714ae8e61af, flag=0
+Received: uuid=71e0ac5c-3f8f-4041-b8b7-668594c7de35, flag=0, less, 0
+Ignored: uuid=71e0ac5c-3f8f-4041-b8b7-668594c7de35, flag=0
+Received: uuid=c8974085-6fe8-4d14-b19f-b714ae8e61af, flag=0, same, 0
+Leader is decided to c8974085-6fe8-4d14-b19f-b714ae8e61af
+Sent: uuid=c8974085-6fe8-4d14-b19f-b714ae8e61af, flag=1
+Received: uuid=c8974085-6fe8-4d14-b19f-b714ae8e61af, flag=1, same, 1, leader_id=c8974085-6fe8-4d14-b19f-b714ae8e61af
